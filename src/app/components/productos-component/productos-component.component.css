@@ -1,0 +1,32 @@
+.container {
+    background-image: url("../../../assets/img/fondo-productos.webp");
+    background-size: 100%;
+    height: 100%;
+    max-width: 100%;
+}
+
+.card {
+    width: 18%;
+    height: 25%;
+    margin: 15px;
+    background-color: rgba(48, 47, 47, 0.774);
+    color: azure;
+}
+
+img {
+    width: 100%;
+}
+
+pagination-controls {
+    background-color: rgba(0, 0, 0, 0.315);
+    height: 30px;
+    border-radius: 20px;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    color: azure;
+}
+
+.btn {
+    width: 30%;
+    text-align: center;
+}
